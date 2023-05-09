@@ -18,9 +18,7 @@ To use the app, simply clone the repository and run the MusicPlayer.py file. The
 
 ## Built With
 
-* [pygame](https://www.pygame.org/docs/) - Used for audio handling
-* [tkinter](https://docs.python.org/3/library/tkinter.html) - The GUI library used
-* [pytube](https://pytube.io/en/latest/) - Used to download videos from Youtube
+* [graphics]([https://www.pygame.org/docs/](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf)) - Used to implement the GUI
 
 ## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/59984623/236852271-1b62e02b-933f-453c-8e51-6bf70a1105d9.PNG)
