@@ -1,20 +1,10 @@
 # monopoly-simulation
 
-This
-
-## Key Features
-
-    Play, pause, skip, and shuffle songs
-    
-    Adjust volume and manage playback settings to suit your preferences
-    
-    Download songs from YouTube as MP3 files by simply pasting the URL
-    
-    Store your music locally for easy access and offline playback
+This monopoly simulator allows the user to choose a number of dice rolls to simulate. Once the rolls are completed, it displays how many times each space was landed on. This is useful to see which monopoly properties are most likely to be landed on.
 
 ## Installation
 
-To use the app, simply clone the repository and run the MusicPlayer.py file. The app requires Python 3.7 or later and the Tkinter library to be installed on your system.
+To use the app, simply clone the repository and run the MonopolySim.py file. The app requires Python 3.7 or later to be installed on your system.
 
 ## Built With
 
